@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+
+html,
+body {
+  height: 100vh;
+  margin: 0px;
+  color: #ddd;
+  background-color: #222;
+  font-family: "Source Code Pro", monospace;
+}
+.list-container {
+  margin: 0px;
+  padding-left: 1rem;
+  list-style-type: none;
+}
+.input-line {
+  display: flex;
+}
+.prompt {
+  font: inherit;
+  margin: 0px;
+}
+.command {
+  border: none;
+  outline: none;
+  color: inherit;
+  font: inherit;
+  background-color: transparent;
+  padding: 0px;
+  flex: 1;
+}
