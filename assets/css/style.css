@@ -18,6 +18,7 @@ body {
 }
 .prompt {
   font: inherit;
+  color: aquamarine;
   margin: 0px;
 }
 .command {
@@ -28,4 +29,7 @@ body {
   background-color: transparent;
   padding: 0px;
   flex: 1;
+}
+output {
+  white-space: pre;
 }
