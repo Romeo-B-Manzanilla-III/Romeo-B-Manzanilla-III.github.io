@@ -30,3 +30,7 @@ export function closeGroup(group, output) {
   group.querySelector(".command").disabled = true;
   return group;
 }
+
+export function createcloseGroup(tag, id, output) {
+  return closeGroup(createGroup(tag, id), output);
+}
