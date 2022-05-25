@@ -25,7 +25,7 @@ export function createGroup(tag, id) {
 }
 
 export function closeGroup(group, output) {
-  group.querySelector("output").textContent = output;
+  group.querySelector("output").innerHTML = output;
   group.removeAttribute("id");
   group.querySelector(".command").disabled = true;
   return group;
