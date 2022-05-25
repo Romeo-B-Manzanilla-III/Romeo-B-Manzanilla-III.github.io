@@ -30,6 +30,9 @@ body {
   padding: 0px;
   flex: 1;
 }
+a {
+  color: aqua;
+}
 output {
   white-space: pre;
 }
