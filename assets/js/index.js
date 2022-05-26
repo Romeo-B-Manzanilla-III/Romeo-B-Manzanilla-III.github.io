@@ -97,6 +97,39 @@ ${where_do_you_want_to_go}
 `;
       case "3":
         return `
+I really like to start a project, then abandon it after I find something cooler.
+This helped me learn a lot over all fields.
+
+This isn't even all of it.
+It is too much to list all of it:
+3 Cube Chance
+Alter 1010
+Realm World
+Quantum Resizable Addition and Multiplication
+StockAI
+BuffetBot
+Connect4
+PartThis.Space
+AI Chat
+Simple AI
+RNN
+ALL AI
+Snake
+Rust Snake
+The Bloch Sphere Visualizer
+Autoencoder
+FlappyTurd
+ChaosBall
+Procedural Generator
+World Of Wonder
+Shoot For Life
+RealmIsle
+Chunk-System
+Gluffy Blog
+Shuper
+Rhash
+TensorFlowUI
+
 ${where_do_you_want_to_go}
 `;
       case "4":
