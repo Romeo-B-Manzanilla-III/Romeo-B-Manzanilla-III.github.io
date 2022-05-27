@@ -142,8 +142,7 @@ ${where_do_you_want_to_go}
 `;
       case "4":
         return `
-NOTE: This doesn't really send the message to me;
-this is just for completion;
+NOTE: This doesn't really send the message to me, so this is just for completion,
 but you can contact me at romelianism@gmail.com!
 <form><label>
 Name: 
