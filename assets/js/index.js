@@ -101,7 +101,8 @@ I really like to start a project, then abandon it after I find something cooler.
 This helped me learn a lot over all fields.
 
 This isn't even all of it.
-It is too much to list all of it:
+
+It is too much to list all of it:<code>
 3 Cube Chance
 Alter 1010
 Realm World
@@ -132,11 +133,26 @@ TensorFlowUI
 WriteALog
 Cryptop
 Amazon Web Scraper
-
+</code>
 ${where_do_you_want_to_go}
 `;
       case "4":
         return `
+NOTE: This doesn't really send the message to me;
+this is just for completion;
+but you can contact me at romelianism@gmail.com!
+<form><label>
+Name: 
+<input></input>
+</label><label>
+Email: 
+<input></input>
+</label><label>
+Message: 
+<textarea></textarea>
+</label>
+<input type="submit" value="Submit">
+</form>
 ${where_do_you_want_to_go}
 `;
     }
