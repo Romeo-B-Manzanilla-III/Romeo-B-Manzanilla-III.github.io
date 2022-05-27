@@ -47,6 +47,10 @@ const prompt = [
 This website is for my TLE web portfolio project.
 I made it a modern terminal style, so I can have some challenges with it.
 
+The source code for the website: ${createLink(
+          "Romeo-B-Manzanilla-III.github.io",
+          "https://github.com/Romeo-B-Manzanilla-III/Romeo-B-Manzanilla-III.github.io"
+        )}
 The GitHub account for this Website is only made for this project for now,
 so if you want to see my actual Github account go to ${createLink(
           "Romelianism",
