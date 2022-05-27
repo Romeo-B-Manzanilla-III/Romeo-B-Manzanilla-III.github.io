@@ -125,10 +125,13 @@ World Of Wonder
 Shoot For Life
 RealmIsle
 Chunk-System
-Gluffy Blog
+Fluffy Blog
 Shuper
 Rhash
 TensorFlowUI
+WriteALog
+Cryptop
+Amazon Web Scraper
 
 ${where_do_you_want_to_go}
 `;
